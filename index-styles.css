@@ -1,0 +1,61 @@
+.barra_superior{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    list-style:none;
+    font-size: 20px;
+    width: 95%;
+}
+.two{
+    justify-content: end;
+    display: flex;
+    flex-wrap: wrap;
+    /*justify-content: space-between;*/
+    justify-content: space-around;
+    width: 45%;
+    color: rgb(197, 219, 236);
+}
+ul{
+    color: #f9f9f9;
+}
+body{
+    background-color: #1F2937;
+    /*padding: 2%;
+    border-left: 10px;*/
+    margin-left: 10%;
+    margin-right: 10%;
+}
+h1{
+   color: rgb(255, 255, 255);
+   
+}
+.header_box{
+    height: 200px;
+    width: 1200px;
+    display: flex;
+    flex-direction: column;
+    margin-right: 10%;
+}
+.parrafo_del_principio{
+    width: 350px;
+    color: rgb(197, 219, 236);
+}
+.primera_imagen{
+    height: 200px;
+    width: 300px;
+    justify-content: end;
+    margin-right: 5%;
+}
+.head{
+    display: flex;
+    width: auto;
+}
+.boton{
+    background-color: #8db1e3;
+    border: #8db1e3;
+    color: #f9f9f9;
+    height: 40px;
+    width: 90px;
+    border-radius: 1em;
+    outline: 2px solid rgb(52, 164, 228);
+}
