@@ -91,3 +91,60 @@ h2{
    text-align: center;
    padding-top: 2%;
 }
+.three{
+    background-color: rgb(222, 229, 235);
+    color: rgb(0, 0, 0);
+    font-size: 200%;
+}
+.parrafo2{
+    padding-top: 5%;
+    width: 850px;
+    justify-content: center;
+    margin-left: 15%;
+}
+.autor{
+    margin-left: 55%;
+    font-size: 70%;
+    font-weight: bold;
+    padding-bottom: 5%;
+}
+.four{
+    background-color: #205cb0;
+   /* display: flex;*/
+    /*flex-wrap: wrap;*/
+    padding: 5%;
+    height: 10%;
+}
+.four2{
+    display: flex;
+    background-color: #f9f9f9;
+    margin-left: 8%;
+    border-radius: 1em;
+    height: 2%;
+    flex-direction: column;
+
+}
+.boton2{
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-bottom: 5%;
+    background-color: #205cb0;
+    border: #8db1e3;
+    color: #f9f9f9;
+    height: 40px;
+    width: 90px;
+    border-radius: 1em;
+    outline: 2px solid rgb(255, 255, 255);
+    
+    
+}
+.letterh2{
+    width: 50%;
+    margin-left: 10%;
+}
+.text2{
+    width: 80%;
+}
+.ultimo{
+    display: flex;
+}
